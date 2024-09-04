@@ -15,7 +15,7 @@ public class Auto {
     private boolean defekt;
 
     /* TAGFÜGGVÉNYEK */
- /* kstr hívási lánc: túlterhelt kstr hívja a másik kstr-t */
+    /* kstr hívási lánc: túlterhelt kstr hívja a másik kstr-t */
     public Auto() {
         /* semmi nem lehet a kstr. hívás előtt, mert nem fordul le! */
         //int i = 7;
